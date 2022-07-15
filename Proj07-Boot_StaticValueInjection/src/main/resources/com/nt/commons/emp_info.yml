@@ -1,0 +1,28 @@
+emp:
+  info:
+    id: 1001
+    name: Raja
+    nickNames:
+      -Prince
+      -King
+      -Maharaj
+
+    teamMembers:
+      -Ramesh
+      -Suresh
+      -Vabesh
+
+    phoneNumbers:
+      -99999999999
+      -88888888888
+      -77777777777
+
+    idDetails:
+      addharNo: 2435234534532
+      panNo: GSFD45645T
+      voter: FSD4353G
+
+    companyDetails:
+      name: HCL
+      type: IT
+      location: Hyderbad
