@@ -1,0 +1,1 @@
+double com.nt.service.ShoppingStore.calcBillAmount(double,double) with args : [0.0, 0.0] has raised exception : java.lang.IllegalArgumentException: Invalid price and qty.
